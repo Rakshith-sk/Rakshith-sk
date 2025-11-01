@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rakshith-sk/Rakshith-sk/edit/main/README.md).
 
-- 📝 I regularly write articles on [Blogs on Medium]
+- 📝 I regularly write articles on [Blogs on Medium](https://medium.com/@Rakshith-sk)
 
 - 💬 Ask me about **Data Science,Data Analyst, Machine Learning, Deep Learning, Artificial Intelligence**
 
-- 📫 How to reach me **rakshithskv16@gmail.com**
+- 📫 How to reach me **rakshithskdataanalyst@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
